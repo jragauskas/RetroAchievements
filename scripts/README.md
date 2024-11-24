@@ -9,10 +9,10 @@ rascript_export.sh -i <input_script> [-o <output_dir>] [-e <ratools_dir>]
 ```
 
 ## Parameters
--i, --input: Path to the input script (required).
--o, --output: Path to the output directory (optional, can also be set as RATOOLS_OUTPUT_DIR environment variable).
--e, --exe: Path to the RATools directory (optional, can also be set as RATOOLS_DIR environment variable).
--h, --help: Display the help message.
+* -i, --input: Path to the input script (required).
+* -o, --output: Path to the output directory (optional, can also be set as RATOOLS_OUTPUT_DIR environment variable).
+* -e, --exe: Path to the RATools directory (optional, can also be set as RATOOLS_DIR environment variable).
+* -h, --help: Display the help message.
 
 ## Examples
 
