@@ -2,12 +2,6 @@
 
 This script runs the `rascript-cli.exe` tool from the RATools suite using Wine. It allows you to specify the input script, output directory, and the path to the RATools directory.
 
-## Installation
-
-Install wine
-
-Provide rascript_export.sh to env variables
-
 ## Usage
 
 ```bash
